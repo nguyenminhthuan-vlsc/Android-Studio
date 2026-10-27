@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThiCuoiKy_MobileApp_2500114700</string>
+    <string name="login_title">ĐĂNG NHẬP</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="profile_title">HỒ SƠ CÁ NHÂN</string>
+    <string name="btn_logout">Đăng xuất</string>
+</resources>

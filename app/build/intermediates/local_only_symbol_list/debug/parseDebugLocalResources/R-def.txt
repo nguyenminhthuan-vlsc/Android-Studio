@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id btnLogout
+id etEmail
+id etPassword
+id tvProfileTitle
+id tvStatus
+id tvTitle
+id tvUserEmail
+layout activity_login
+layout activity_profile
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_login
+string btn_logout
+string email_hint
+string login_title
+string password_hint
+string profile_title
+style Theme.ThiCuoiKy_MobileApp

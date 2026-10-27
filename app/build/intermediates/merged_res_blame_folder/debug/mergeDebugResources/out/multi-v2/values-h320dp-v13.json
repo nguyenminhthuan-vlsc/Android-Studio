@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.thicuoiky_mobileapp_2500114700.app-mergeDebugResources-37:/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PERSON\\.gradle\\caches\\9.6.0\\transforms\\b6be9ac5253fb3db1f5bf507aa24a2f0\\transformed\\material-1.14.0\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

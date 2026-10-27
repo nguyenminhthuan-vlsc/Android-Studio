@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.thicuoiky_mobileapp_2500114700.app-mergeDebugResources-37:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PERSON\\.gradle\\caches\\9.6.0\\transforms\\de11cee828e29df2c464247ca37fd6f2\\transformed\\appcompat-1.8.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
