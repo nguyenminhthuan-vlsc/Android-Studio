@@ -1,5 +1,6 @@
 package com.example.thicuoiky_mobileapp_2500114700
 
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
 import android.util.Patterns
@@ -36,6 +37,11 @@ class LoginActivity : AppCompatActivity() {
             } else {
                 tvStatus.text = "Đăng nhập hợp lệ"
                 tvStatus.setTextColor(Color.parseColor("#388E3C"))
+
+                // Sử dụng Intent (Explicit Intent) + Bundle putExtra truyền Email sang ProfileActivity
+                val intent = Intent(this, ProfileActivity::class.java)
+                intent.putExtra("USER_EMAIL", email)
+                startActivity(intent)
             }
         }
     }
